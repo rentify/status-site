@@ -1,0 +1,31 @@
+body {
+	background: #000;
+	color: #fff;
+	margin:auto;
+	text-align:center;
+}
+
+h1 {
+	font: 30em/1.0 Helvetica, "Lucida Grande", sans-serif;
+}
+
+a {
+	color: #fff;
+	text-decoration:none;
+}
+
+#twat {
+	display:block;
+	width: 560px;
+	height: 748px;
+	background: url('ed.png') center no-repeat;
+	margin:auto;
+	text-align:center;
+}
+
+#twat:hover {
+	background: url('ed2.png');
+}
+
+858
+1138
